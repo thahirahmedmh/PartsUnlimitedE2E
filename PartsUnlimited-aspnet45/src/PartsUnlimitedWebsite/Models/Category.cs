@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
         //My third changes
         public int CategoryId { get; set; }
 
+        //My First Issue
         [Required]
         public string Name { get; set; }
 
